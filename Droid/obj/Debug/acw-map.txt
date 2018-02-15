@@ -1,0 +1,8 @@
+ejmeplo1.Droid.MainActivity, ejmeplo1.Droid;md5175ac4a98c96e176ed40694d492bf4c8.MainActivity
+ejmeplo1.Droid.MainActivity, ejmeplo1.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5175ac4a98c96e176ed40694d492bf4c8.MainActivity
+ejmeplo1.Droid.MainActivity;md5175ac4a98c96e176ed40694d492bf4c8.MainActivity
+ejmeplo1.droid.MainActivity;md5175ac4a98c96e176ed40694d492bf4c8.MainActivity
+ejmeplo1.Droid.AddContacto, ejmeplo1.Droid;md5175ac4a98c96e176ed40694d492bf4c8.AddContacto
+ejmeplo1.Droid.AddContacto, ejmeplo1.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5175ac4a98c96e176ed40694d492bf4c8.AddContacto
+ejmeplo1.Droid.AddContacto;md5175ac4a98c96e176ed40694d492bf4c8.AddContacto
+ejmeplo1.droid.AddContacto;md5175ac4a98c96e176ed40694d492bf4c8.AddContacto

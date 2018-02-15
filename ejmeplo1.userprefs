@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{32E9CBAC-E5CF-479F-B0F1-8562EA5CDC25}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Droid/MainActivity.cs">
+    <Files>
+      <File FileName="Droid/MainActivity.cs" Line="19" Column="13" />
+      <File FileName="Droid/AddContactoActivity.cs" Line="17" Column="40" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ejmeplo1.Droid AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Pixel_2_XL_API_25" />
+  <MonoDevelop.Ide.ItemProperties.ejmeplo1.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.710B3B93-DAF6-48C2-9A07-900D00D24909">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.ejmeplo1.iOS>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,12 @@
+/Users/ccdm01/Projects/ejmeplo1/iOS/bin/iPhoneSimulator/Debug/ejmeplo1.iOS.exe
+/Users/ccdm01/Projects/ejmeplo1/iOS/bin/iPhoneSimulator/Debug/ejmeplo1.iOS.pdb
+/Users/ccdm01/Projects/ejmeplo1/iOS/bin/iPhoneSimulator/Debug/ejmeplo1.dll
+/Users/ccdm01/Projects/ejmeplo1/iOS/bin/iPhoneSimulator/Debug/ejmeplo1.pdb
+/Users/ccdm01/Projects/ejmeplo1/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/ibtool/_BundleResourceWithLogicalName.items
+/Users/ccdm01/Projects/ejmeplo1/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/actool/_PartialAppManifest.items
+/Users/ccdm01/Projects/ejmeplo1/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/actool/_BundleResourceWithLogicalName.items
+/Users/ccdm01/Projects/ejmeplo1/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/optimized/
+/Users/ccdm01/Projects/ejmeplo1/iOS/obj/iPhoneSimulator/Debug/ejmeplo1.iOS.csprojResolveAssemblyReference.cache
+/Users/ccdm01/Projects/ejmeplo1/iOS/obj/iPhoneSimulator/Debug/ejmeplo1.iOS.csproj.CoreCompileInputs.cache
+/Users/ccdm01/Projects/ejmeplo1/iOS/obj/iPhoneSimulator/Debug/ejmeplo1.iOS.exe
+/Users/ccdm01/Projects/ejmeplo1/iOS/obj/iPhoneSimulator/Debug/ejmeplo1.iOS.pdb
