@@ -19,3 +19,50 @@
 /Users/ccdm01/Projects/ejmeplo1/Droid/obj/Debug/uploadflags.txt
 /Users/ccdm01/Projects/ejmeplo1/Droid/obj/Debug/ejmeplo1.Droid.csprojResolveAssemblyReference.cache
 /Users/ccdm01/Projects/ejmeplo1/Droid/obj/Debug/res/layout/addcontacto.xml
+C:\Users\Jorge Barraza\Documents\Git\CRM\Droid\bin\Debug\ejmeplo1.Droid.dll
+C:\Users\Jorge Barraza\Documents\Git\CRM\Droid\bin\Debug\ejmeplo1.Droid.pdb
+C:\Users\Jorge Barraza\Documents\Git\CRM\Droid\bin\Debug\com.companyname.ejmeplo1.apk
+C:\Users\Jorge Barraza\Documents\Git\CRM\Droid\bin\Debug\com.companyname.ejmeplo1-Signed.apk
+C:\Users\Jorge Barraza\Documents\Git\CRM\Droid\bin\Debug\ejmeplo1.dll
+C:\Users\Jorge Barraza\Documents\Git\CRM\Droid\bin\Debug\ejmeplo1.pdb
+C:\Users\Jorge Barraza\Documents\Git\CRM\Droid\obj\Debug\ejmeplo1.Droid.csprojResolveAssemblyReference.cache
+C:\Users\Jorge Barraza\Documents\Git\CRM\Droid\obj\Debug\ejmeplo1.Droid.csproj.CoreCompileInputs.cache
+C:\Users\Jorge Barraza\Documents\Git\CRM\Droid\obj\Debug\ejmeplo1.Droid.dll
+C:\Users\Jorge Barraza\Documents\Git\CRM\Droid\obj\Debug\ejmeplo1.Droid.pdb
+C:\Users\Jorge Barraza\Documents\Git\CRM\Droid\obj\Debug\android\bin\com.companyname.ejmeplo1.apk
+C:\Users\Jorge Barraza\Documents\Git\CRM\Droid\obj\Debug\res\layout\main.xml
+C:\Users\Jorge Barraza\Documents\Git\CRM\Droid\obj\Debug\res\values\strings.xml
+C:\Users\Jorge Barraza\Documents\Git\CRM\Droid\obj\Debug\res\mipmap-hdpi\icon.png
+C:\Users\Jorge Barraza\Documents\Git\CRM\Droid\obj\Debug\res\mipmap-mdpi\icon.png
+C:\Users\Jorge Barraza\Documents\Git\CRM\Droid\obj\Debug\res\mipmap-xhdpi\icon.png
+C:\Users\Jorge Barraza\Documents\Git\CRM\Droid\obj\Debug\res\mipmap-xxhdpi\icon.png
+C:\Users\Jorge Barraza\Documents\Git\CRM\Droid\obj\Debug\res\mipmap-xxxhdpi\icon.png
+C:\Users\Jorge Barraza\Documents\Git\CRM\Droid\obj\Debug\res\layout\addcontacto.xml
+C:\Users\Jorge Barraza\Documents\Git\CRM\Droid\obj\Debug\R.cs.flag
+C:\Users\Jorge Barraza\Documents\Git\CRM\Droid\obj\Debug\uploadflags.txt
+C:\Users\Jorge Barraza\Documents\Git\CRM\Droid\bin\Debug\ejmeplo1.dll.mdb
+C:\Users\Jorge Barraza\Documents\Git\CRM\Droid\bin\Debug\ejmeplo1.Droid.dll.mdb
+C:\Users\Jorge Barraza\Documents\Git\CRM\Droid\obj\Debug\android\assets\ejmeplo1.dll.mdb
+C:\Users\Jorge Barraza\Documents\Git\CRM\Droid\obj\Debug\android\assets\ejmeplo1.Droid.dll.mdb
+C:\Users\Jorge Barraza\Documents\Git\CRM\Droid\bin\Debug\ejmeplo1.Droid.dll
+bin\Debug\ejmeplo1.dll.mdb
+bin\Debug\mscorlib.pdb
+bin\Debug\System.Core.pdb
+bin\Debug\System.pdb
+bin\Debug\System.Xml.pdb
+bin\Debug\System.Net.Http.pdb
+bin\Debug\System.Runtime.Serialization.pdb
+bin\Debug\System.ServiceModel.Internals.pdb
+bin\Debug\Mono.Security.pdb
+bin\Debug\System.ComponentModel.Composition.pdb
+obj\Debug\linksrc\ejmeplo1.Droid.dll.mdb
+obj\Debug\linksrc\ejmeplo1.dll.mdb
+obj\Debug\linksrc\mscorlib.pdb
+obj\Debug\linksrc\System.Core.pdb
+obj\Debug\linksrc\System.pdb
+obj\Debug\linksrc\System.Xml.pdb
+obj\Debug\linksrc\System.Net.Http.pdb
+obj\Debug\linksrc\System.Runtime.Serialization.pdb
+obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+obj\Debug\linksrc\Mono.Security.pdb
+obj\Debug\linksrc\System.ComponentModel.Composition.pdb
