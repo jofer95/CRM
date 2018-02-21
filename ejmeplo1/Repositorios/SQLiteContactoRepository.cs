@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 using ejmeplo1.Interfaces;
 using SQLite;
 
@@ -25,22 +26,23 @@ namespace ejmeplo1.Repositorios
 
         public void CrearContacto(Contacto contacto)
         {
-            throw new NotImplementedException();
+            db.Insert(contacto);
         }
 
         public void Inicializar()
         {
+            //Crear tablas
             db.CreateTable<Contacto>();
         }
 
         public Contacto ObtenerContactoPorID(int contactoID)
         {
-            throw new NotImplementedException();
+            return db.Find<Contacto>(x => x.ID == contactoID);
         }
 
         public List<Contacto> ObtenerContactos()
         {
-            throw new NotImplementedException();
+            return db.Table<Contacto>().ToList();
         }
     }
 }
