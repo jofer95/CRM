@@ -4,12 +4,15 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using SQLite;
 
 namespace ejmeplo1
 {
+    [SQLite.Table("Contacto")]
     public class Contacto
     {
-        public int ContactoID { get; set; }
+        [PrimaryKey,AutoIncrement,Column("Id")]
+        public int ID { get; set; }
         public String ApellidoPaterno { get; set; }
         public String ApellidoMaterno { get; set; }
         public String Nombre { get; set; }
