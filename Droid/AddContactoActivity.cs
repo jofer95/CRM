@@ -20,7 +20,6 @@ namespace ejmeplo1.Droid
     {
         IContacto iContacto = new SQLiteContactoRepository(MainActivity.path);
         //private Button btnAñadirContacto;
-        private EditText edtApellidoP, edtApellidoM, edtNombre, edtCorreo, edtTelefono;
         protected override void OnCreate(Bundle savedInstanceState)
         {
             base.OnCreate(savedInstanceState);
@@ -33,6 +32,10 @@ namespace ejmeplo1.Droid
             EditText edtNombre = FindViewById<EditText>(Resource.Id.etNombre);
             EditText edtCorreo = FindViewById<EditText>(Resource.Id.etCorreo);
             EditText edtTelefono = FindViewById<EditText>(Resource.Id.etTelefono);
+            TextView tvEstatusCliente = FindViewById<TextView>(Resource.Id.tvEstatus);
+            tvEstatusCliente.Visibility = ViewStates.Gone;
+            Spinner spnEstatusCliente = FindViewById<Spinner>(Resource.Id.spnTipoCliente);
+            spnEstatusCliente.Visibility = ViewStates.Gone;
 
             //Evento onClick del boton de agregar cliente
             btnAñadirContacto.Click += delegate
@@ -46,7 +49,9 @@ namespace ejmeplo1.Droid
                 contacto.TipoCliente = Enumeradores.TipoCliente.ClientePotencial;
                 //Guardar el contacto en base de datos
                 iContacto.CrearContacto(contacto);
+                Finish();
             };
         }
+
     }
 }

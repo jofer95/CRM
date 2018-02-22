@@ -75,11 +75,22 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:id="@+id/etTelefono" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/tvEstatus"
+                android:text="Estatus del cliente"
+                android:textColor="#fffafafa" />
+            <Spinner
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/spnTipoCliente"
+                android:layout_marginTop="10dp" />
             <Button
                 android:id="@+id/btnAddContacto"
                 android:text="Agregar contacto"
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content" /> 
+                android:layout_height="wrap_content" />
         </LinearLayout>
     </ScrollView>
 </RelativeLayout>
