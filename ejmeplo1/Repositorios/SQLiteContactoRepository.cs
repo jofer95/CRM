@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using ejmeplo1.Enumeradores;
 using ejmeplo1.Interfaces;
 using SQLite;
 
@@ -44,9 +45,9 @@ namespace ejmeplo1.Repositorios
             return db.Find<Contacto>(x => x.ID == contactoID);
         }
 
-        public List<Contacto> ObtenerContactos()
+        public List<Contacto> ObtenerContactos(TipoCliente tipoContcto)
         {
-            return db.Table<Contacto>().ToList();
+            return db.Table<Contacto>().Where(x => x.TipoCliente == tipoContcto).ToList();           
         }
     }
 }

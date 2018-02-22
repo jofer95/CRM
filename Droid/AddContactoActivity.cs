@@ -43,7 +43,8 @@ namespace ejmeplo1.Droid
                 contacto.Nombre = edtNombre.Text;
                 contacto.Correo = edtCorreo.Text;
                 contacto.Telefono = edtTelefono.Text;
-                contacto.TipoCliente = Enumeradores.TipoCliente.ClienteProspecto;
+                contacto.TipoCliente = Enumeradores.TipoCliente.ClientePotencial;
+                //Guardar el contacto en base de datos
                 iContacto.CrearContacto(contacto);
             };
         }
