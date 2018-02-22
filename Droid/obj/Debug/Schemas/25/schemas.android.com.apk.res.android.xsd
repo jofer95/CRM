@@ -2,7 +2,7 @@
 <xs:schema xmlns:android="http://schemas.android.com/apk/res/android" attributeFormDefault="qualified" targetNamespace="http://schemas.android.com/apk/res/android" xmlns:xs="http://www.w3.org/2001/XMLSchema">
   <xs:annotation>
     <xs:documentation>v25</xs:documentation>
-    <xs:documentation>20/02/2018 12:08:49 a. m.</xs:documentation>
+    <xs:documentation>22/02/2018 01:38:04 a. m.</xs:documentation>
   </xs:annotation>
   <xs:attribute name="accessibilityLiveRegion">
     <xs:annotation>
@@ -16899,10 +16899,10 @@
             <xs:enumeration value="@+id/" />
             <xs:enumeration value="@+id/checkedTextView1" />
             <xs:enumeration value="@id/btnAddContacto" />
-            <xs:enumeration value="@id/button1" />
-            <xs:enumeration value="@id/button2" />
-            <xs:enumeration value="@id/button3" />
-            <xs:enumeration value="@id/button4" />
+            <xs:enumeration value="@id/btnClientes" />
+            <xs:enumeration value="@id/btnClientesDescartados" />
+            <xs:enumeration value="@id/btnClientesPotenciales" />
+            <xs:enumeration value="@id/btnClientesProspectos" />
             <xs:enumeration value="@id/etApellidoM" />
             <xs:enumeration value="@id/etApellidoP" />
             <xs:enumeration value="@id/etCorreo" />
@@ -16911,14 +16911,17 @@
             <xs:enumeration value="@id/linearLayout1" />
             <xs:enumeration value="@id/linearLayout2" />
             <xs:enumeration value="@id/linearLayout3" />
-            <xs:enumeration value="@id/myButton" />
+            <xs:enumeration value="@id/lvClientes" />
             <xs:enumeration value="@id/scrollView1" />
             <xs:enumeration value="@id/tvApellidoMaterno" />
             <xs:enumeration value="@id/tvApellidoPaterno" />
             <xs:enumeration value="@id/tvAppName" />
             <xs:enumeration value="@id/tvCorreo" />
+            <xs:enumeration value="@id/tvEstatus" />
             <xs:enumeration value="@id/tvNombre" />
+            <xs:enumeration value="@id/tvNombreCompleto" />
             <xs:enumeration value="@id/tvNumeroTelefono" />
+            <xs:enumeration value="@id/tvTelefono" />
             <xs:enumeration value="@android:id/accessibilityActionContextClick" />
             <xs:enumeration value="@android:id/accessibilityActionScrollDown" />
             <xs:enumeration value="@android:id/accessibilityActionScrollLeft" />

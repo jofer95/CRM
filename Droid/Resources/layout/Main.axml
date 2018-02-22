@@ -28,12 +28,12 @@
             <Button
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:id="@+id/button1"
+                android:id="@+id/btnClientes"
                 android:text="clientes" />
             <Button
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:id="@+id/button2"
+                android:id="@+id/btnClientesPotenciales"
                 android:text="clientes potenciales" />
         </LinearLayout>
         <LinearLayout
@@ -47,12 +47,12 @@
             <Button
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:id="@+id/button3"
+                android:id="@+id/btnClientesProspectos"
                 android:text="clientes prospectos" />
             <Button
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:id="@+id/button4"
+                android:id="@+id/btnClientesDescartados"
                 android:text="clientes descartados" />
         </LinearLayout>
     </LinearLayout>
@@ -61,9 +61,4 @@
         android:layout_height="wrap_content"
         android:id="@+id/btnAddContacto"
         android:text="Añadir nuevo contacto" />
-    <Button
-        android:id="@+id/myButton"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="@string/hello" />
 </LinearLayout>

@@ -2,13 +2,15 @@
 using Android.Widget;
 using Android.OS;
 using Android.Content;
+using System;
+using ejmeplo1.Repositorios;
 
 namespace ejmeplo1.Droid
 {
     [Activity(Label = "Menu principal", MainLauncher = true, Icon = "@mipmap/icon")]
     public class MainActivity : Activity
     {
-        int count = 1;
+        public static String path = System.IO.Path.Combine(System.Environment.GetFolderPath(System.Environment.SpecialFolder.ApplicationData), "crm.db3");
 
         protected override void OnCreate(Bundle savedInstanceState)
         {
@@ -16,17 +18,25 @@ namespace ejmeplo1.Droid
 
             // Set our view from the "main" layout resource
             SetContentView(Resource.Layout.Main);
+            //Creando las tablas e inicializando
+            SQLiteContactoRepository repositorio = new SQLiteContactoRepository(path);
+            repositorio.Inicializar();
 
+            //Referencias
             Button btnAddContacto = FindViewById<Button>(Resource.Id.btnAddContacto);
-            Button button = FindViewById<Button>(Resource.Id.myButton);
+            Button btnClientesPotenciales = FindViewById<Button>(Resource.Id.btnClientesPotenciales);
 
             btnAddContacto.Click += delegate {
                 var activityAddContacto = new Intent(this, typeof(AddContacto));
                 activityAddContacto.PutExtra("MyData", "Data from Activity1");
-                StartActivity(activityAddContacto);
+                StartActivity(activityAddContacto);                
             };
 
-            button.Click += delegate { button.Text = $"{count++} clicks!"; };
+            btnClientesPotenciales.Click += delegate {
+                var activityListaClientes = new Intent(this, typeof(ListaDeClientesActivity));
+                activityListaClientes.PutExtra("MyData", "Data from Activity1");
+                StartActivity(activityListaClientes);
+            };
         }
     }
 }

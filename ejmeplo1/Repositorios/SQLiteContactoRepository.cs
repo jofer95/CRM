@@ -9,24 +9,28 @@ namespace ejmeplo1.Repositorios
     public class SQLiteContactoRepository : IContacto
     {
         SQLiteConnection db;
+        private static object l = new object();
         public SQLiteContactoRepository(String path)
-        {
+        {           
             db = new SQLiteConnection(path);
         }
 
         public void ActualizarContacto(Contacto contacto)
         {
-            throw new NotImplementedException();
+            db.Update(contacto);
         }
 
         public void BorrarContactoPorID(int contactoID)
         {
-            throw new NotImplementedException();
+            db.Delete(contactoID);
         }
 
         public void CrearContacto(Contacto contacto)
         {
-            db.Insert(contacto);
+            lock (l)
+            {
+                db.Insert(contacto);
+            }
         }
 
         public void Inicializar()
