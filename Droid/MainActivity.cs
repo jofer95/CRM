@@ -37,7 +37,7 @@ namespace ejmeplo1.Droid
                 //Seleccionar la actividad a abrir.
                 var activityAddContacto = new Intent(this, typeof(AddContacto));
                 //Informacion a enviar a la otra pantalla
-                activityAddContacto.PutExtra("MyData", "Data from Activity1");
+                activityAddContacto.PutExtra("MyData", "");
                 //Abrir
                 StartActivity(activityAddContacto);                
             };

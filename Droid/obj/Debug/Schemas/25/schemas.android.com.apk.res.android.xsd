@@ -2,7 +2,7 @@
 <xs:schema xmlns:android="http://schemas.android.com/apk/res/android" attributeFormDefault="qualified" targetNamespace="http://schemas.android.com/apk/res/android" xmlns:xs="http://www.w3.org/2001/XMLSchema">
   <xs:annotation>
     <xs:documentation>v25</xs:documentation>
-    <xs:documentation>22/02/2018 12:52:37 p. m.</xs:documentation>
+    <xs:documentation>24/02/2018 02:14:34 p. m.</xs:documentation>
   </xs:annotation>
   <xs:attribute name="accessibilityLiveRegion">
     <xs:annotation>
@@ -16899,6 +16899,7 @@
             <xs:enumeration value="@+id/" />
             <xs:enumeration value="@+id/checkedTextView1" />
             <xs:enumeration value="@id/btnAddContacto" />
+            <xs:enumeration value="@id/btnBorrarContacto" />
             <xs:enumeration value="@id/btnClientes" />
             <xs:enumeration value="@id/btnClientesDescartados" />
             <xs:enumeration value="@id/btnClientesPotenciales" />
@@ -16913,6 +16914,7 @@
             <xs:enumeration value="@id/linearLayout3" />
             <xs:enumeration value="@id/lvClientes" />
             <xs:enumeration value="@id/scrollView1" />
+            <xs:enumeration value="@id/spnTipoCliente" />
             <xs:enumeration value="@id/tvApellidoMaterno" />
             <xs:enumeration value="@id/tvApellidoPaterno" />
             <xs:enumeration value="@id/tvAppName" />
@@ -19781,6 +19783,7 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@id/btnAddContacto" />
+            <xs:enumeration value="@id/btnBorrarContacto" />
             <xs:enumeration value="@id/btnClientes" />
             <xs:enumeration value="@id/btnClientesDescartados" />
             <xs:enumeration value="@id/btnClientesPotenciales" />
@@ -19795,6 +19798,7 @@
             <xs:enumeration value="@id/linearLayout3" />
             <xs:enumeration value="@id/lvClientes" />
             <xs:enumeration value="@id/scrollView1" />
+            <xs:enumeration value="@id/spnTipoCliente" />
             <xs:enumeration value="@id/tvApellidoMaterno" />
             <xs:enumeration value="@id/tvApellidoPaterno" />
             <xs:enumeration value="@id/tvAppName" />
@@ -19883,6 +19887,7 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@id/btnAddContacto" />
+            <xs:enumeration value="@id/btnBorrarContacto" />
             <xs:enumeration value="@id/btnClientes" />
             <xs:enumeration value="@id/btnClientesDescartados" />
             <xs:enumeration value="@id/btnClientesPotenciales" />
@@ -19897,6 +19902,7 @@
             <xs:enumeration value="@id/linearLayout3" />
             <xs:enumeration value="@id/lvClientes" />
             <xs:enumeration value="@id/scrollView1" />
+            <xs:enumeration value="@id/spnTipoCliente" />
             <xs:enumeration value="@id/tvApellidoMaterno" />
             <xs:enumeration value="@id/tvApellidoPaterno" />
             <xs:enumeration value="@id/tvAppName" />
@@ -19985,6 +19991,7 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@id/btnAddContacto" />
+            <xs:enumeration value="@id/btnBorrarContacto" />
             <xs:enumeration value="@id/btnClientes" />
             <xs:enumeration value="@id/btnClientesDescartados" />
             <xs:enumeration value="@id/btnClientesPotenciales" />
@@ -19999,6 +20006,7 @@
             <xs:enumeration value="@id/linearLayout3" />
             <xs:enumeration value="@id/lvClientes" />
             <xs:enumeration value="@id/scrollView1" />
+            <xs:enumeration value="@id/spnTipoCliente" />
             <xs:enumeration value="@id/tvApellidoMaterno" />
             <xs:enumeration value="@id/tvApellidoPaterno" />
             <xs:enumeration value="@id/tvAppName" />
@@ -20087,6 +20095,7 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@id/btnAddContacto" />
+            <xs:enumeration value="@id/btnBorrarContacto" />
             <xs:enumeration value="@id/btnClientes" />
             <xs:enumeration value="@id/btnClientesDescartados" />
             <xs:enumeration value="@id/btnClientesPotenciales" />
@@ -20101,6 +20110,7 @@
             <xs:enumeration value="@id/linearLayout3" />
             <xs:enumeration value="@id/lvClientes" />
             <xs:enumeration value="@id/scrollView1" />
+            <xs:enumeration value="@id/spnTipoCliente" />
             <xs:enumeration value="@id/tvApellidoMaterno" />
             <xs:enumeration value="@id/tvApellidoPaterno" />
             <xs:enumeration value="@id/tvAppName" />
@@ -20189,6 +20199,7 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@id/btnAddContacto" />
+            <xs:enumeration value="@id/btnBorrarContacto" />
             <xs:enumeration value="@id/btnClientes" />
             <xs:enumeration value="@id/btnClientesDescartados" />
             <xs:enumeration value="@id/btnClientesPotenciales" />
@@ -20203,6 +20214,7 @@
             <xs:enumeration value="@id/linearLayout3" />
             <xs:enumeration value="@id/lvClientes" />
             <xs:enumeration value="@id/scrollView1" />
+            <xs:enumeration value="@id/spnTipoCliente" />
             <xs:enumeration value="@id/tvApellidoMaterno" />
             <xs:enumeration value="@id/tvApellidoPaterno" />
             <xs:enumeration value="@id/tvAppName" />
@@ -20531,6 +20543,7 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@id/btnAddContacto" />
+            <xs:enumeration value="@id/btnBorrarContacto" />
             <xs:enumeration value="@id/btnClientes" />
             <xs:enumeration value="@id/btnClientesDescartados" />
             <xs:enumeration value="@id/btnClientesPotenciales" />
@@ -20545,6 +20558,7 @@
             <xs:enumeration value="@id/linearLayout3" />
             <xs:enumeration value="@id/lvClientes" />
             <xs:enumeration value="@id/scrollView1" />
+            <xs:enumeration value="@id/spnTipoCliente" />
             <xs:enumeration value="@id/tvApellidoMaterno" />
             <xs:enumeration value="@id/tvApellidoPaterno" />
             <xs:enumeration value="@id/tvAppName" />
@@ -20633,6 +20647,7 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@id/btnAddContacto" />
+            <xs:enumeration value="@id/btnBorrarContacto" />
             <xs:enumeration value="@id/btnClientes" />
             <xs:enumeration value="@id/btnClientesDescartados" />
             <xs:enumeration value="@id/btnClientesPotenciales" />
@@ -20647,6 +20662,7 @@
             <xs:enumeration value="@id/linearLayout3" />
             <xs:enumeration value="@id/lvClientes" />
             <xs:enumeration value="@id/scrollView1" />
+            <xs:enumeration value="@id/spnTipoCliente" />
             <xs:enumeration value="@id/tvApellidoMaterno" />
             <xs:enumeration value="@id/tvApellidoPaterno" />
             <xs:enumeration value="@id/tvAppName" />
@@ -20735,6 +20751,7 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@id/btnAddContacto" />
+            <xs:enumeration value="@id/btnBorrarContacto" />
             <xs:enumeration value="@id/btnClientes" />
             <xs:enumeration value="@id/btnClientesDescartados" />
             <xs:enumeration value="@id/btnClientesPotenciales" />
@@ -20749,6 +20766,7 @@
             <xs:enumeration value="@id/linearLayout3" />
             <xs:enumeration value="@id/lvClientes" />
             <xs:enumeration value="@id/scrollView1" />
+            <xs:enumeration value="@id/spnTipoCliente" />
             <xs:enumeration value="@id/tvApellidoMaterno" />
             <xs:enumeration value="@id/tvApellidoPaterno" />
             <xs:enumeration value="@id/tvAppName" />
@@ -20877,6 +20895,7 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@id/btnAddContacto" />
+            <xs:enumeration value="@id/btnBorrarContacto" />
             <xs:enumeration value="@id/btnClientes" />
             <xs:enumeration value="@id/btnClientesDescartados" />
             <xs:enumeration value="@id/btnClientesPotenciales" />
@@ -20891,6 +20910,7 @@
             <xs:enumeration value="@id/linearLayout3" />
             <xs:enumeration value="@id/lvClientes" />
             <xs:enumeration value="@id/scrollView1" />
+            <xs:enumeration value="@id/spnTipoCliente" />
             <xs:enumeration value="@id/tvApellidoMaterno" />
             <xs:enumeration value="@id/tvApellidoPaterno" />
             <xs:enumeration value="@id/tvAppName" />
@@ -21421,6 +21441,7 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@id/btnAddContacto" />
+            <xs:enumeration value="@id/btnBorrarContacto" />
             <xs:enumeration value="@id/btnClientes" />
             <xs:enumeration value="@id/btnClientesDescartados" />
             <xs:enumeration value="@id/btnClientesPotenciales" />
@@ -21435,6 +21456,7 @@
             <xs:enumeration value="@id/linearLayout3" />
             <xs:enumeration value="@id/lvClientes" />
             <xs:enumeration value="@id/scrollView1" />
+            <xs:enumeration value="@id/spnTipoCliente" />
             <xs:enumeration value="@id/tvApellidoMaterno" />
             <xs:enumeration value="@id/tvApellidoPaterno" />
             <xs:enumeration value="@id/tvAppName" />
@@ -21523,6 +21545,7 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@id/btnAddContacto" />
+            <xs:enumeration value="@id/btnBorrarContacto" />
             <xs:enumeration value="@id/btnClientes" />
             <xs:enumeration value="@id/btnClientesDescartados" />
             <xs:enumeration value="@id/btnClientesPotenciales" />
@@ -21537,6 +21560,7 @@
             <xs:enumeration value="@id/linearLayout3" />
             <xs:enumeration value="@id/lvClientes" />
             <xs:enumeration value="@id/scrollView1" />
+            <xs:enumeration value="@id/spnTipoCliente" />
             <xs:enumeration value="@id/tvApellidoMaterno" />
             <xs:enumeration value="@id/tvApellidoPaterno" />
             <xs:enumeration value="@id/tvAppName" />
@@ -21625,6 +21649,7 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@id/btnAddContacto" />
+            <xs:enumeration value="@id/btnBorrarContacto" />
             <xs:enumeration value="@id/btnClientes" />
             <xs:enumeration value="@id/btnClientesDescartados" />
             <xs:enumeration value="@id/btnClientesPotenciales" />
@@ -21639,6 +21664,7 @@
             <xs:enumeration value="@id/linearLayout3" />
             <xs:enumeration value="@id/lvClientes" />
             <xs:enumeration value="@id/scrollView1" />
+            <xs:enumeration value="@id/spnTipoCliente" />
             <xs:enumeration value="@id/tvApellidoMaterno" />
             <xs:enumeration value="@id/tvApellidoPaterno" />
             <xs:enumeration value="@id/tvAppName" />
@@ -21727,6 +21753,7 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@id/btnAddContacto" />
+            <xs:enumeration value="@id/btnBorrarContacto" />
             <xs:enumeration value="@id/btnClientes" />
             <xs:enumeration value="@id/btnClientesDescartados" />
             <xs:enumeration value="@id/btnClientesPotenciales" />
@@ -21741,6 +21768,7 @@
             <xs:enumeration value="@id/linearLayout3" />
             <xs:enumeration value="@id/lvClientes" />
             <xs:enumeration value="@id/scrollView1" />
+            <xs:enumeration value="@id/spnTipoCliente" />
             <xs:enumeration value="@id/tvApellidoMaterno" />
             <xs:enumeration value="@id/tvApellidoPaterno" />
             <xs:enumeration value="@id/tvAppName" />

@@ -19,41 +19,6 @@
 /Users/ccdm01/Projects/ejmeplo1/Droid/obj/Debug/uploadflags.txt
 /Users/ccdm01/Projects/ejmeplo1/Droid/obj/Debug/ejmeplo1.Droid.csprojResolveAssemblyReference.cache
 /Users/ccdm01/Projects/ejmeplo1/Droid/obj/Debug/res/layout/addcontacto.xml
-C:/Users/Jorge Barraza/Documents/Git/CRM/Droid/bin/Debug/ejmeplo1.Droid.dll
-C:/Users/Jorge Barraza/Documents/Git/CRM/Droid/bin/Debug/ejmeplo1.Droid.pdb
-C:/Users/Jorge Barraza/Documents/Git/CRM/Droid/bin/Debug/com.companyname.ejmeplo1.apk
-C:/Users/Jorge Barraza/Documents/Git/CRM/Droid/bin/Debug/com.companyname.ejmeplo1-Signed.apk
-C:/Users/Jorge Barraza/Documents/Git/CRM/Droid/bin/Debug/ejmeplo1.dll
-C:/Users/Jorge Barraza/Documents/Git/CRM/Droid/bin/Debug/SQLite-net.dll
-C:/Users/Jorge Barraza/Documents/Git/CRM/Droid/bin/Debug/SQLitePCLRaw.batteries_green.dll
-C:/Users/Jorge Barraza/Documents/Git/CRM/Droid/bin/Debug/SQLitePCLRaw.batteries_v2.dll
-C:/Users/Jorge Barraza/Documents/Git/CRM/Droid/bin/Debug/SQLitePCLRaw.core.dll
-C:/Users/Jorge Barraza/Documents/Git/CRM/Droid/bin/Debug/SQLitePCLRaw.lib.e_sqlite3.dll
-C:/Users/Jorge Barraza/Documents/Git/CRM/Droid/bin/Debug/SQLitePCLRaw.provider.e_sqlite3.dll
-C:/Users/Jorge Barraza/Documents/Git/CRM/Droid/bin/Debug/ejmeplo1.pdb
-C:/Users/Jorge Barraza/Documents/Git/CRM/Droid/bin/Debug/SQLite-net.pdb
-C:/Users/Jorge Barraza/Documents/Git/CRM/Droid/bin/Debug/SQLite-net.xml
-C:/Users/Jorge Barraza/Documents/Git/CRM/Droid/obj/Debug/ejmeplo1.Droid.csprojResolveAssemblyReference.cache
-C:/Users/Jorge Barraza/Documents/Git/CRM/Droid/obj/Debug/ejmeplo1.Droid.csproj.CoreCompileInputs.cache
-C:/Users/Jorge Barraza/Documents/Git/CRM/Droid/obj/Debug/ejmeplo1.Droid.dll
-C:/Users/Jorge Barraza/Documents/Git/CRM/Droid/obj/Debug/ejmeplo1.Droid.pdb
-C:/Users/Jorge Barraza/Documents/Git/CRM/Droid/obj/Debug/android/bin/com.companyname.ejmeplo1.apk
-C:/Users/Jorge Barraza/Documents/Git/CRM/Droid/obj/Debug/res/layout/listadeclientes.xml
-C:/Users/Jorge Barraza/Documents/Git/CRM/Droid/obj/Debug/res/layout/itemcliente.xml
-C:/Users/Jorge Barraza/Documents/Git/CRM/Droid/obj/Debug/res/layout/main.xml
-C:/Users/Jorge Barraza/Documents/Git/CRM/Droid/obj/Debug/res/values/strings.xml
-C:/Users/Jorge Barraza/Documents/Git/CRM/Droid/obj/Debug/res/mipmap-hdpi/icon.png
-C:/Users/Jorge Barraza/Documents/Git/CRM/Droid/obj/Debug/res/mipmap-mdpi/icon.png
-C:/Users/Jorge Barraza/Documents/Git/CRM/Droid/obj/Debug/res/mipmap-xhdpi/icon.png
-C:/Users/Jorge Barraza/Documents/Git/CRM/Droid/obj/Debug/res/mipmap-xxhdpi/icon.png
-C:/Users/Jorge Barraza/Documents/Git/CRM/Droid/obj/Debug/res/mipmap-xxxhdpi/icon.png
-C:/Users/Jorge Barraza/Documents/Git/CRM/Droid/obj/Debug/res/layout/addcontacto.xml
-C:/Users/Jorge Barraza/Documents/Git/CRM/Droid/obj/Debug/R.cs.flag
-C:/Users/Jorge Barraza/Documents/Git/CRM/Droid/obj/Debug/uploadflags.txt
-C:/Users/Jorge Barraza/Documents/Git/CRM/Droid/bin/Debug/ejmeplo1.dll.mdb
-C:/Users/Jorge Barraza/Documents/Git/CRM/Droid/bin/Debug/ejmeplo1.Droid.dll.mdb
-C:/Users/Jorge Barraza/Documents/Git/CRM/Droid/obj/Debug/android/assets/ejmeplo1.dll.mdb
-C:/Users/Jorge Barraza/Documents/Git/CRM/Droid/obj/Debug/android/assets/ejmeplo1.Droid.dll.mdb
 /Users/ccdm01/Documents/Git/CRM/Droid/bin/Debug/ejmeplo1.Droid.dll
 /Users/ccdm01/Documents/Git/CRM/Droid/bin/Debug/ejmeplo1.Droid.pdb
 /Users/ccdm01/Documents/Git/CRM/Droid/bin/Debug/com.companyname.ejmeplo1.apk
@@ -86,3 +51,54 @@ C:/Users/Jorge Barraza/Documents/Git/CRM/Droid/obj/Debug/android/assets/ejmeplo1
 /Users/ccdm01/Documents/Git/CRM/Droid/obj/Debug/res/layout/addcontacto.xml
 /Users/ccdm01/Documents/Git/CRM/Droid/obj/Debug/R.cs.flag
 /Users/ccdm01/Documents/Git/CRM/Droid/obj/Debug/uploadflags.txt
+C:\Users\Jorge Barraza\Documents\Git\CRM\Droid\bin\Debug\ejmeplo1.Droid.dll
+C:\Users\Jorge Barraza\Documents\Git\CRM\Droid\bin\Debug\ejmeplo1.Droid.pdb
+C:\Users\Jorge Barraza\Documents\Git\CRM\Droid\bin\Debug\com.companyname.ejmeplo1.apk
+C:\Users\Jorge Barraza\Documents\Git\CRM\Droid\bin\Debug\com.companyname.ejmeplo1-Signed.apk
+C:\Users\Jorge Barraza\Documents\Git\CRM\Droid\bin\Debug\ejmeplo1.dll
+C:\Users\Jorge Barraza\Documents\Git\CRM\Droid\bin\Debug\SQLite-net.dll
+C:\Users\Jorge Barraza\Documents\Git\CRM\Droid\bin\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Users\Jorge Barraza\Documents\Git\CRM\Droid\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Jorge Barraza\Documents\Git\CRM\Droid\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\Jorge Barraza\Documents\Git\CRM\Droid\bin\Debug\SQLitePCLRaw.lib.e_sqlite3.dll
+C:\Users\Jorge Barraza\Documents\Git\CRM\Droid\bin\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Jorge Barraza\Documents\Git\CRM\Droid\bin\Debug\ejmeplo1.pdb
+C:\Users\Jorge Barraza\Documents\Git\CRM\Droid\bin\Debug\SQLite-net.pdb
+C:\Users\Jorge Barraza\Documents\Git\CRM\Droid\bin\Debug\SQLite-net.xml
+C:\Users\Jorge Barraza\Documents\Git\CRM\Droid\obj\Debug\ejmeplo1.Droid.csprojResolveAssemblyReference.cache
+C:\Users\Jorge Barraza\Documents\Git\CRM\Droid\obj\Debug\ejmeplo1.Droid.csproj.CoreCompileInputs.cache
+C:\Users\Jorge Barraza\Documents\Git\CRM\Droid\obj\Debug\ejmeplo1.Droid.dll
+C:\Users\Jorge Barraza\Documents\Git\CRM\Droid\obj\Debug\ejmeplo1.Droid.pdb
+C:\Users\Jorge Barraza\Documents\Git\CRM\Droid\obj\Debug\android\bin\com.companyname.ejmeplo1.apk
+C:\Users\Jorge Barraza\Documents\Git\CRM\Droid\obj\Debug\res\layout\listadeclientes.xml
+C:\Users\Jorge Barraza\Documents\Git\CRM\Droid\obj\Debug\res\layout\itemcliente.xml
+C:\Users\Jorge Barraza\Documents\Git\CRM\Droid\obj\Debug\res\layout\main.xml
+C:\Users\Jorge Barraza\Documents\Git\CRM\Droid\obj\Debug\res\values\strings.xml
+C:\Users\Jorge Barraza\Documents\Git\CRM\Droid\obj\Debug\res\mipmap-hdpi\icon.png
+C:\Users\Jorge Barraza\Documents\Git\CRM\Droid\obj\Debug\res\mipmap-mdpi\icon.png
+C:\Users\Jorge Barraza\Documents\Git\CRM\Droid\obj\Debug\res\mipmap-xhdpi\icon.png
+C:\Users\Jorge Barraza\Documents\Git\CRM\Droid\obj\Debug\res\mipmap-xxhdpi\icon.png
+C:\Users\Jorge Barraza\Documents\Git\CRM\Droid\obj\Debug\res\mipmap-xxxhdpi\icon.png
+C:\Users\Jorge Barraza\Documents\Git\CRM\Droid\obj\Debug\res\layout\addcontacto.xml
+C:\Users\Jorge Barraza\Documents\Git\CRM\Droid\obj\Debug\R.cs.flag
+C:\Users\Jorge Barraza\Documents\Git\CRM\Droid\obj\Debug\uploadflags.txt
+C:\Users\Jorge Barraza\Documents\Git\CRM\Droid\bin\Debug\ejmeplo1.dll.mdb
+C:\Users\Jorge Barraza\Documents\Git\CRM\Droid\bin\Debug\ejmeplo1.Droid.dll.mdb
+C:\Users\Jorge Barraza\Documents\Git\CRM\Droid\obj\Debug\android\assets\ejmeplo1.dll.mdb
+C:\Users\Jorge Barraza\Documents\Git\CRM\Droid\obj\Debug\android\assets\ejmeplo1.Droid.dll.mdb
+C:\Users\Jorge Barraza\Documents\Git\CRM\Droid\bin\Debug\ejmeplo1.Droid.dll
+bin\Debug\ejmeplo1.dll.mdb
+bin\Debug\Mono.Android.pdb
+obj\Debug\linksrc\ejmeplo1.Droid.dll.mdb
+obj\Debug\linksrc\ejmeplo1.dll.mdb
+obj\Debug\linksrc\Mono.Android.pdb
+obj\Debug\linksrc\mscorlib.pdb
+obj\Debug\linksrc\SQLite-net.pdb
+obj\Debug\linksrc\System.Core.pdb
+obj\Debug\linksrc\System.pdb
+obj\Debug\linksrc\System.Xml.pdb
+obj\Debug\linksrc\System.Net.Http.pdb
+obj\Debug\linksrc\System.Runtime.Serialization.pdb
+obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+obj\Debug\linksrc\Mono.Security.pdb
+obj\Debug\linksrc\System.ComponentModel.Composition.pdb

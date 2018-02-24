@@ -68,6 +68,26 @@ namespace ejmeplo1.Droid
                 adapter = new ContactoAdapter(this, clientes);
                 //Asignar a la lista
                 lvClientes.Adapter = adapter;
+
+
+                //Alert dialog para cuando no hay clientes
+                if(clientes.Count <= 0)
+                {
+                    AlertDialog.Builder alert = new AlertDialog.Builder(this);
+                    alert.SetTitle("Información");
+                    alert.SetMessage("Actualmente no hay contactos en ésta categoria.");
+                    alert.SetPositiveButton("Aceptar", (senderAlert, args) => {
+                        Finish();
+                        //Toast.MakeText(this, "Mensaje!", ToastLength.Short).Show();
+                    });
+
+                    /*alert.SetNegativeButton("Cancel", (senderAlert, args) => {
+                        Toast.MakeText(this, "Cancelled!", ToastLength.Short).Show();
+                    });*/
+
+                    Dialog dialog = alert.Create();
+                    dialog.Show();
+                }                
             }
 
         }
@@ -75,8 +95,8 @@ namespace ejmeplo1.Droid
         //Evento onClick de un objecto de la lista a seleccionar
         private void onItemClick(object sender, AdapterView.ItemClickEventArgs e)
         {
-            var detallesIntent = new Intent(this, typeof(MainActivity));
-            detallesIntent.PutExtra("id", adapter[e.Position].ID);
+            var detallesIntent = new Intent(this, typeof(AddContacto));
+            detallesIntent.PutExtra("MyData", adapter[e.Position].ID.ToString());
             StartActivity(detallesIntent);
         }
     }

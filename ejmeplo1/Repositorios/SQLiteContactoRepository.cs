@@ -21,9 +21,9 @@ namespace ejmeplo1.Repositorios
             db.Update(contacto);
         }
 
-        public void BorrarContactoPorID(int contactoID)
+        public void BorrarContactoPorID(Contacto contacto)
         {
-            db.Delete(contactoID);
+            db.Delete(contacto);
         }
 
         public void CrearContacto(Contacto contacto)

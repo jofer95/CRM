@@ -1,32 +1,32 @@
-/Users/ccdm01/Documents/Git/CRM/Droid/obj/Debug/android/assets/ejmeplo1.Droid.dll
-/Users/ccdm01/Documents/Git/CRM/Droid/obj/Debug/android/assets/ejmeplo1.dll
-/Users/ccdm01/Documents/Git/CRM/Droid/obj/Debug/android/assets/Java.Interop.dll
-/Users/ccdm01/Documents/Git/CRM/Droid/obj/Debug/android/assets/Mono.Android.dll
-/Users/ccdm01/Documents/Git/CRM/Droid/obj/Debug/android/assets/System.Core.dll
-/Users/ccdm01/Documents/Git/CRM/Droid/obj/Debug/android/assets/System.dll
-/Users/ccdm01/Documents/Git/CRM/Droid/obj/Debug/android/assets/System.Xml.dll
-/Users/ccdm01/Documents/Git/CRM/Droid/obj/Debug/android/assets/mscorlib.dll
-/Users/ccdm01/Documents/Git/CRM/Droid/obj/Debug/android/assets/SQLite-net.dll
-/Users/ccdm01/Documents/Git/CRM/Droid/obj/Debug/android/assets/SQLitePCLRaw.batteries_green.dll
-/Users/ccdm01/Documents/Git/CRM/Droid/obj/Debug/android/assets/SQLitePCLRaw.batteries_v2.dll
-/Users/ccdm01/Documents/Git/CRM/Droid/obj/Debug/android/assets/SQLitePCLRaw.core.dll
-/Users/ccdm01/Documents/Git/CRM/Droid/obj/Debug/android/assets/SQLitePCLRaw.lib.e_sqlite3.dll
-/Users/ccdm01/Documents/Git/CRM/Droid/obj/Debug/android/assets/SQLitePCLRaw.provider.e_sqlite3.dll
-/Users/ccdm01/Documents/Git/CRM/Droid/obj/Debug/android/assets/System.Runtime.dll
-/Users/ccdm01/Documents/Git/CRM/Droid/obj/Debug/android/assets/System.ComponentModel.Composition.dll
-/Users/ccdm01/Documents/Git/CRM/Droid/obj/Debug/android/assets/System.Diagnostics.Debug.dll
-/Users/ccdm01/Documents/Git/CRM/Droid/obj/Debug/android/assets/System.Linq.Expressions.dll
-/Users/ccdm01/Documents/Git/CRM/Droid/obj/Debug/android/assets/System.Collections.dll
-/Users/ccdm01/Documents/Git/CRM/Droid/obj/Debug/android/assets/System.Threading.dll
-/Users/ccdm01/Documents/Git/CRM/Droid/obj/Debug/android/assets/System.Reflection.dll
-/Users/ccdm01/Documents/Git/CRM/Droid/obj/Debug/android/assets/System.Linq.dll
-/Users/ccdm01/Documents/Git/CRM/Droid/obj/Debug/android/assets/System.Collections.Concurrent.dll
-/Users/ccdm01/Documents/Git/CRM/Droid/obj/Debug/android/assets/System.Runtime.InteropServices.dll
-/Users/ccdm01/Documents/Git/CRM/Droid/obj/Debug/android/assets/System.Runtime.Extensions.dll
-/Users/ccdm01/Documents/Git/CRM/Droid/obj/Debug/android/assets/System.Reflection.Extensions.dll
-/Users/ccdm01/Documents/Git/CRM/Droid/obj/Debug/android/assets/System.Net.Http.dll
-/Users/ccdm01/Documents/Git/CRM/Droid/obj/Debug/android/assets/System.Runtime.Serialization.dll
-/Users/ccdm01/Documents/Git/CRM/Droid/obj/Debug/android/assets/System.ServiceModel.Internals.dll
-/Users/ccdm01/Documents/Git/CRM/Droid/obj/Debug/android/assets/Mono.Security.dll
-/Users/ccdm01/Documents/Git/CRM/Droid/obj/Debug/android/assets/System.Threading.Tasks.dll
-/Users/ccdm01/Documents/Git/CRM/Droid/obj/Debug/android/assets/System.Globalization.dll
+C:\Users\Jorge Barraza\Documents\Git\CRM\Droid\obj\Debug\android\assets\ejmeplo1.Droid.dll
+C:\Users\Jorge Barraza\Documents\Git\CRM\Droid\obj\Debug\android\assets\ejmeplo1.dll
+C:\Users\Jorge Barraza\Documents\Git\CRM\Droid\obj\Debug\android\assets\Java.Interop.dll
+C:\Users\Jorge Barraza\Documents\Git\CRM\Droid\obj\Debug\android\assets\Mono.Android.dll
+C:\Users\Jorge Barraza\Documents\Git\CRM\Droid\obj\Debug\android\assets\mscorlib.dll
+C:\Users\Jorge Barraza\Documents\Git\CRM\Droid\obj\Debug\android\assets\SQLite-net.dll
+C:\Users\Jorge Barraza\Documents\Git\CRM\Droid\obj\Debug\android\assets\SQLitePCLRaw.batteries_green.dll
+C:\Users\Jorge Barraza\Documents\Git\CRM\Droid\obj\Debug\android\assets\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Jorge Barraza\Documents\Git\CRM\Droid\obj\Debug\android\assets\SQLitePCLRaw.core.dll
+C:\Users\Jorge Barraza\Documents\Git\CRM\Droid\obj\Debug\android\assets\SQLitePCLRaw.lib.e_sqlite3.dll
+C:\Users\Jorge Barraza\Documents\Git\CRM\Droid\obj\Debug\android\assets\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Jorge Barraza\Documents\Git\CRM\Droid\obj\Debug\android\assets\System.Core.dll
+C:\Users\Jorge Barraza\Documents\Git\CRM\Droid\obj\Debug\android\assets\System.dll
+C:\Users\Jorge Barraza\Documents\Git\CRM\Droid\obj\Debug\android\assets\System.Runtime.dll
+C:\Users\Jorge Barraza\Documents\Git\CRM\Droid\obj\Debug\android\assets\System.Xml.dll
+C:\Users\Jorge Barraza\Documents\Git\CRM\Droid\obj\Debug\android\assets\System.Diagnostics.Debug.dll
+C:\Users\Jorge Barraza\Documents\Git\CRM\Droid\obj\Debug\android\assets\System.Linq.Expressions.dll
+C:\Users\Jorge Barraza\Documents\Git\CRM\Droid\obj\Debug\android\assets\System.Collections.dll
+C:\Users\Jorge Barraza\Documents\Git\CRM\Droid\obj\Debug\android\assets\System.Threading.dll
+C:\Users\Jorge Barraza\Documents\Git\CRM\Droid\obj\Debug\android\assets\System.Reflection.dll
+C:\Users\Jorge Barraza\Documents\Git\CRM\Droid\obj\Debug\android\assets\System.Linq.dll
+C:\Users\Jorge Barraza\Documents\Git\CRM\Droid\obj\Debug\android\assets\System.Collections.Concurrent.dll
+C:\Users\Jorge Barraza\Documents\Git\CRM\Droid\obj\Debug\android\assets\System.Runtime.InteropServices.dll
+C:\Users\Jorge Barraza\Documents\Git\CRM\Droid\obj\Debug\android\assets\System.Runtime.Extensions.dll
+C:\Users\Jorge Barraza\Documents\Git\CRM\Droid\obj\Debug\android\assets\System.Reflection.Extensions.dll
+C:\Users\Jorge Barraza\Documents\Git\CRM\Droid\obj\Debug\android\assets\System.Net.Http.dll
+C:\Users\Jorge Barraza\Documents\Git\CRM\Droid\obj\Debug\android\assets\System.Runtime.Serialization.dll
+C:\Users\Jorge Barraza\Documents\Git\CRM\Droid\obj\Debug\android\assets\System.ServiceModel.Internals.dll
+C:\Users\Jorge Barraza\Documents\Git\CRM\Droid\obj\Debug\android\assets\System.Threading.Tasks.dll
+C:\Users\Jorge Barraza\Documents\Git\CRM\Droid\obj\Debug\android\assets\System.Globalization.dll
+C:\Users\Jorge Barraza\Documents\Git\CRM\Droid\obj\Debug\android\assets\Mono.Security.dll
+C:\Users\Jorge Barraza\Documents\Git\CRM\Droid\obj\Debug\android\assets\System.ComponentModel.Composition.dll

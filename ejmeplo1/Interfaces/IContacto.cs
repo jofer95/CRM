@@ -13,7 +13,7 @@ namespace ejmeplo1.Interfaces
         Contacto ObtenerContactoPorID(int contactoID);
         void CrearContacto(Contacto contacto);
         void ActualizarContacto(Contacto contacto);
-        void BorrarContactoPorID(int contactoID);
+        void BorrarContactoPorID(Contacto contactoID);
         void Inicializar();
     }
 }
