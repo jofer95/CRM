@@ -1,8 +1,15 @@
 /Users/ccdm01/Documents/Git/CRM/iOS/bin/iPhoneSimulator/Debug/ejmeplo1.iOS.exe
 /Users/ccdm01/Documents/Git/CRM/iOS/bin/iPhoneSimulator/Debug/ejmeplo1.iOS.pdb
 /Users/ccdm01/Documents/Git/CRM/iOS/bin/iPhoneSimulator/Debug/ejmeplo1.dll
+/Users/ccdm01/Documents/Git/CRM/iOS/bin/iPhoneSimulator/Debug/SQLite-net.dll
+/Users/ccdm01/Documents/Git/CRM/iOS/bin/iPhoneSimulator/Debug/SQLitePCLRaw.batteries_green.dll
+/Users/ccdm01/Documents/Git/CRM/iOS/bin/iPhoneSimulator/Debug/SQLitePCLRaw.batteries_v2.dll
+/Users/ccdm01/Documents/Git/CRM/iOS/bin/iPhoneSimulator/Debug/SQLitePCLRaw.core.dll
+/Users/ccdm01/Documents/Git/CRM/iOS/bin/iPhoneSimulator/Debug/SQLitePCLRaw.provider.sqlite3.dll
 /Users/ccdm01/Documents/Git/CRM/iOS/bin/iPhoneSimulator/Debug/ejmeplo1.pdb
 /Users/ccdm01/Documents/Git/CRM/iOS/bin/iPhoneSimulator/Debug/ejmeplo1.dll.mdb
+/Users/ccdm01/Documents/Git/CRM/iOS/bin/iPhoneSimulator/Debug/SQLite-net.pdb
+/Users/ccdm01/Documents/Git/CRM/iOS/bin/iPhoneSimulator/Debug/SQLite-net.xml
 /Users/ccdm01/Documents/Git/CRM/iOS/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
 /Users/ccdm01/Documents/Git/CRM/iOS/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
 /Users/ccdm01/Documents/Git/CRM/iOS/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items

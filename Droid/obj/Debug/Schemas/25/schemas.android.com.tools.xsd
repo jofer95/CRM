@@ -2,7 +2,7 @@
 <xs:schema xmlns:tools="http://schemas.android.com/tools" attributeFormDefault="qualified" targetNamespace="http://schemas.android.com/tools" xmlns:xs="http://www.w3.org/2001/XMLSchema">
   <xs:annotation>
     <xs:documentation>v25</xs:documentation>
-    <xs:documentation>20/02/2018 12:08:49 a. m.</xs:documentation>
+    <xs:documentation>24/02/2018 02:14:34 p. m.</xs:documentation>
   </xs:annotation>
   <xs:attribute name="layout">
     <xs:annotation>
@@ -13,6 +13,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@layout/addcontacto" />
+            <xs:enumeration value="@layout/itemcliente" />
+            <xs:enumeration value="@layout/listadeclientes" />
             <xs:enumeration value="@layout/main" />
             <xs:enumeration value="@android:layout/activity_list_item" />
             <xs:enumeration value="@android:layout/browser_link_context_header" />
@@ -63,6 +65,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@layout/addcontacto" />
+            <xs:enumeration value="@layout/itemcliente" />
+            <xs:enumeration value="@layout/listadeclientes" />
             <xs:enumeration value="@layout/main" />
             <xs:enumeration value="@android:layout/activity_list_item" />
             <xs:enumeration value="@android:layout/browser_link_context_header" />
@@ -113,6 +117,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@layout/addcontacto" />
+            <xs:enumeration value="@layout/itemcliente" />
+            <xs:enumeration value="@layout/listadeclientes" />
             <xs:enumeration value="@layout/main" />
             <xs:enumeration value="@android:layout/activity_list_item" />
             <xs:enumeration value="@android:layout/browser_link_context_header" />
@@ -163,6 +169,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@layout/addcontacto" />
+            <xs:enumeration value="@layout/itemcliente" />
+            <xs:enumeration value="@layout/listadeclientes" />
             <xs:enumeration value="@layout/main" />
             <xs:enumeration value="@android:layout/activity_list_item" />
             <xs:enumeration value="@android:layout/browser_link_context_header" />

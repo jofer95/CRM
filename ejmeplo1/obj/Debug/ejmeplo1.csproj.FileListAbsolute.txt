@@ -3,12 +3,6 @@
 /Users/ccdm01/Projects/ejmeplo1/ejmeplo1/obj/Debug/ejmeplo1.csproj.CoreCompileInputs.cache
 /Users/ccdm01/Projects/ejmeplo1/ejmeplo1/obj/Debug/ejmeplo1.dll
 /Users/ccdm01/Projects/ejmeplo1/ejmeplo1/obj/Debug/ejmeplo1.pdb
-C:/Users/Jorge Barraza/Documents/Git/CRM/ejmeplo1/bin/Debug/ejmeplo1.dll
-C:/Users/Jorge Barraza/Documents/Git/CRM/ejmeplo1/bin/Debug/ejmeplo1.pdb
-C:/Users/Jorge Barraza/Documents/Git/CRM/ejmeplo1/obj/Debug/ejmeplo1.csprojResolveAssemblyReference.cache
-C:/Users/Jorge Barraza/Documents/Git/CRM/ejmeplo1/obj/Debug/ejmeplo1.csproj.CoreCompileInputs.cache
-C:/Users/Jorge Barraza/Documents/Git/CRM/ejmeplo1/obj/Debug/ejmeplo1.dll
-C:/Users/Jorge Barraza/Documents/Git/CRM/ejmeplo1/obj/Debug/ejmeplo1.pdb
 /Users/ccdm01/Documents/Git/CRM/ejmeplo1/bin/Debug/ejmeplo1.dll
 /Users/ccdm01/Documents/Git/CRM/ejmeplo1/bin/Debug/ejmeplo1.pdb
 /Users/ccdm01/Documents/Git/CRM/ejmeplo1/bin/Debug/SQLite-net.dll
@@ -20,3 +14,14 @@ C:/Users/Jorge Barraza/Documents/Git/CRM/ejmeplo1/obj/Debug/ejmeplo1.pdb
 /Users/ccdm01/Documents/Git/CRM/ejmeplo1/obj/Debug/ejmeplo1.csproj.CoreCompileInputs.cache
 /Users/ccdm01/Documents/Git/CRM/ejmeplo1/obj/Debug/ejmeplo1.dll
 /Users/ccdm01/Documents/Git/CRM/ejmeplo1/obj/Debug/ejmeplo1.pdb
+C:\Users\Jorge Barraza\Documents\Git\CRM\ejmeplo1\bin\Debug\ejmeplo1.dll
+C:\Users\Jorge Barraza\Documents\Git\CRM\ejmeplo1\bin\Debug\ejmeplo1.pdb
+C:\Users\Jorge Barraza\Documents\Git\CRM\ejmeplo1\bin\Debug\SQLite-net.dll
+C:\Users\Jorge Barraza\Documents\Git\CRM\ejmeplo1\bin\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Users\Jorge Barraza\Documents\Git\CRM\ejmeplo1\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Jorge Barraza\Documents\Git\CRM\ejmeplo1\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\Jorge Barraza\Documents\Git\CRM\ejmeplo1\bin\Debug\SQLite-net.pdb
+C:\Users\Jorge Barraza\Documents\Git\CRM\ejmeplo1\bin\Debug\SQLite-net.xml
+C:\Users\Jorge Barraza\Documents\Git\CRM\ejmeplo1\obj\Debug\ejmeplo1.csproj.CoreCompileInputs.cache
+C:\Users\Jorge Barraza\Documents\Git\CRM\ejmeplo1\obj\Debug\ejmeplo1.dll
+C:\Users\Jorge Barraza\Documents\Git\CRM\ejmeplo1\obj\Debug\ejmeplo1.pdb

@@ -1,11 +1,8 @@
 ﻿<Properties StartupConfiguration="{32E9CBAC-E5CF-479F-B0F1-8562EA5CDC25}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="ejmeplo1/Repositorios/SQLiteContactoRepository.cs">
+  <MonoDevelop.Ide.Workbench>
     <Files>
-      <File FileName="Droid/MainActivity.cs" Line="15" Column="16" />
-      <File FileName="Droid/AddContactoActivity.cs" Line="30" Column="1" />
-      <File FileName="ejmeplo1/Entidades/Contacto.cs" Line="17" Column="26" />
-      <File FileName="ejmeplo1/Interfaces/IContacto.cs" Line="15" Column="27" />
-      <File FileName="ejmeplo1/Repositorios/SQLiteContactoRepository.cs" Line="20" Column="10" />
+      <File FileName="Droid/MainActivity.cs" Line="45" Column="55" />
+      <File FileName="Droid/AddContactoActivity.cs" Line="26" Column="13" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />

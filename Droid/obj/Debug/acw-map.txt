@@ -1,3 +1,7 @@
+ejmeplo1.Droid.ListaDeClientesActivity, ejmeplo1.Droid;md5175ac4a98c96e176ed40694d492bf4c8.ListaDeClientesActivity
+ejmeplo1.Droid.ListaDeClientesActivity, ejmeplo1.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5175ac4a98c96e176ed40694d492bf4c8.ListaDeClientesActivity
+ejmeplo1.Droid.ListaDeClientesActivity;md5175ac4a98c96e176ed40694d492bf4c8.ListaDeClientesActivity
+ejmeplo1.droid.ListaDeClientesActivity;md5175ac4a98c96e176ed40694d492bf4c8.ListaDeClientesActivity
 ejmeplo1.Droid.MainActivity, ejmeplo1.Droid;md5175ac4a98c96e176ed40694d492bf4c8.MainActivity
 ejmeplo1.Droid.MainActivity, ejmeplo1.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5175ac4a98c96e176ed40694d492bf4c8.MainActivity
 ejmeplo1.Droid.MainActivity;md5175ac4a98c96e176ed40694d492bf4c8.MainActivity
@@ -6,3 +10,7 @@ ejmeplo1.Droid.AddContacto, ejmeplo1.Droid;md5175ac4a98c96e176ed40694d492bf4c8.A
 ejmeplo1.Droid.AddContacto, ejmeplo1.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5175ac4a98c96e176ed40694d492bf4c8.AddContacto
 ejmeplo1.Droid.AddContacto;md5175ac4a98c96e176ed40694d492bf4c8.AddContacto
 ejmeplo1.droid.AddContacto;md5175ac4a98c96e176ed40694d492bf4c8.AddContacto
+ejmeplo1.Droid.Adaptadores.ContactoAdapter, ejmeplo1.Droid;md552361b1da2d989820a4d9ba4037bd0b8.ContactoAdapter
+ejmeplo1.Droid.Adaptadores.ContactoAdapter, ejmeplo1.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md552361b1da2d989820a4d9ba4037bd0b8.ContactoAdapter
+ejmeplo1.Droid.Adaptadores.ContactoAdapter;md552361b1da2d989820a4d9ba4037bd0b8.ContactoAdapter
+ejmeplo1.droid.adaptadores.ContactoAdapter;md552361b1da2d989820a4d9ba4037bd0b8.ContactoAdapter
