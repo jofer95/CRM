@@ -1,8 +1,7 @@
 ﻿<Properties StartupConfiguration="{32E9CBAC-E5CF-479F-B0F1-8562EA5CDC25}|Default">
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="iOS/Main.storyboard">
     <Files>
-      <File FileName="Droid/MainActivity.cs" Line="45" Column="55" />
-      <File FileName="Droid/AddContactoActivity.cs" Line="26" Column="13" />
+      <File FileName="iOS/Main.storyboard" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
