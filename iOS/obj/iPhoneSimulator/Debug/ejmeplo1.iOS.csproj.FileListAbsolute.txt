@@ -10,10 +10,10 @@
 /Users/ccdm01/Documents/Git/CRM/iOS/bin/iPhoneSimulator/Debug/ejmeplo1.dll.mdb
 /Users/ccdm01/Documents/Git/CRM/iOS/bin/iPhoneSimulator/Debug/SQLite-net.pdb
 /Users/ccdm01/Documents/Git/CRM/iOS/bin/iPhoneSimulator/Debug/SQLite-net.xml
-/Users/ccdm01/Documents/Git/CRM/iOS/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
-/Users/ccdm01/Documents/Git/CRM/iOS/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
-/Users/ccdm01/Documents/Git/CRM/iOS/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
-/Users/ccdm01/Documents/Git/CRM/iOS/obj/iPhoneSimulator/Debug/optimized/
+/Users/ccdm01/Documents/Git/CRM/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/ibtool/_BundleResourceWithLogicalName.items
+/Users/ccdm01/Documents/Git/CRM/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/actool/_PartialAppManifest.items
+/Users/ccdm01/Documents/Git/CRM/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/actool/_BundleResourceWithLogicalName.items
+/Users/ccdm01/Documents/Git/CRM/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/optimized/
 /Users/ccdm01/Documents/Git/CRM/iOS/obj/iPhoneSimulator/Debug/ejmeplo1.iOS.csprojResolveAssemblyReference.cache
 /Users/ccdm01/Documents/Git/CRM/iOS/obj/iPhoneSimulator/Debug/ejmeplo1.iOS.csproj.CoreCompileInputs.cache
 /Users/ccdm01/Documents/Git/CRM/iOS/obj/iPhoneSimulator/Debug/ejmeplo1.iOS.exe

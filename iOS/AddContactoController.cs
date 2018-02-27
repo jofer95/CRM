@@ -8,6 +8,12 @@ namespace ejmeplo1.iOS
     {
         public AddContactoController (IntPtr handle) : base (handle)
         {
+           
+
+        }
+        public override void ViewDidLoad()
+        {
+            base.ViewDidLoad();
         }
     }
 }

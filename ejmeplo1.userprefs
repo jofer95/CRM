@@ -1,7 +1,10 @@
-﻿<Properties StartupConfiguration="{32E9CBAC-E5CF-479F-B0F1-8562EA5CDC25}|Default">
+﻿<Properties StartupConfiguration="{90D36503-D9DF-484C-9C39-A75FF6E0E5FD}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="iOS/Main.storyboard">
     <Files>
       <File FileName="iOS/Main.storyboard" />
+      <File FileName="iOS/AddContactoController.cs" Line="12" Column="1" />
+      <File FileName="iOS/ViewController.cs" Line="20" Column="15" />
+      <File FileName="iOS/Main.cs" Line="17" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
