@@ -26,3 +26,15 @@ C:/Users/Jorge Barraza/Documents/Git/CRM/ejmeplo1/obj/Debug/ejmeplo1.csproj.Core
 C:/Users/Jorge Barraza/Documents/Git/CRM/ejmeplo1/obj/Debug/ejmeplo1.dll
 C:/Users/Jorge Barraza/Documents/Git/CRM/ejmeplo1/obj/Debug/ejmeplo1.pdb
 /Users/ccdm01/Documents/Git/CRM/ejmeplo1/obj/Debug/ejmeplo1.csprojResolveAssemblyReference.cache
+/Users/direccionrednacecyt/Documents/Git/CRM/ejmeplo1/bin/Debug/ejmeplo1.dll
+/Users/direccionrednacecyt/Documents/Git/CRM/ejmeplo1/bin/Debug/ejmeplo1.pdb
+/Users/direccionrednacecyt/Documents/Git/CRM/ejmeplo1/bin/Debug/SQLite-net.dll
+/Users/direccionrednacecyt/Documents/Git/CRM/ejmeplo1/bin/Debug/SQLitePCLRaw.batteries_green.dll
+/Users/direccionrednacecyt/Documents/Git/CRM/ejmeplo1/bin/Debug/SQLitePCLRaw.batteries_v2.dll
+/Users/direccionrednacecyt/Documents/Git/CRM/ejmeplo1/bin/Debug/SQLitePCLRaw.core.dll
+/Users/direccionrednacecyt/Documents/Git/CRM/ejmeplo1/bin/Debug/SQLite-net.pdb
+/Users/direccionrednacecyt/Documents/Git/CRM/ejmeplo1/bin/Debug/SQLite-net.xml
+/Users/direccionrednacecyt/Documents/Git/CRM/ejmeplo1/obj/Debug/ejmeplo1.csproj.CoreCompileInputs.cache
+/Users/direccionrednacecyt/Documents/Git/CRM/ejmeplo1/obj/Debug/ejmeplo1.dll
+/Users/direccionrednacecyt/Documents/Git/CRM/ejmeplo1/obj/Debug/ejmeplo1.pdb
+/Users/direccionrednacecyt/Documents/Git/CRM/ejmeplo1/obj/Debug/ejmeplo1.csprojResolveAssemblyReference.cache

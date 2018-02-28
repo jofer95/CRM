@@ -7,20 +7,22 @@
 using Foundation;
 using System;
 using System.CodeDom.Compiler;
+using UIKit;
 
 namespace ejmeplo1.iOS
 {
-    [Register ("ViewController")]
-    partial class ViewController
+    [Register ("DetallesClienteController")]
+    partial class DetallesClienteController
     {
         [Outlet]
-        UIKit.UIButton Button { get; set; }
+        [GeneratedCode ("iOS Designer", "1.0")]
+        UIKit.UIButton btnRegresar { get; set; }
 
         void ReleaseDesignerOutlets ()
         {
-            if (Button != null) {
-                Button.Dispose ();
-                Button = null;
+            if (btnRegresar != null) {
+                btnRegresar.Dispose ();
+                btnRegresar = null;
             }
         }
     }

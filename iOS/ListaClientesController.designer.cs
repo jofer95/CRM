@@ -7,20 +7,22 @@
 using Foundation;
 using System;
 using System.CodeDom.Compiler;
+using UIKit;
 
 namespace ejmeplo1.iOS
 {
-    [Register ("ViewController")]
-    partial class ViewController
+    [Register ("ListaClientesController")]
+    partial class ListaClientesController
     {
         [Outlet]
-        UIKit.UIButton Button { get; set; }
+        [GeneratedCode ("iOS Designer", "1.0")]
+        UIKit.UITableView ClientesTableView { get; set; }
 
         void ReleaseDesignerOutlets ()
         {
-            if (Button != null) {
-                Button.Dispose ();
-                Button = null;
+            if (ClientesTableView != null) {
+                ClientesTableView.Dispose ();
+                ClientesTableView = null;
             }
         }
     }

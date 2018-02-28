@@ -1,19 +1,21 @@
 ﻿<Properties StartupConfiguration="{90D36503-D9DF-484C-9C39-A75FF6E0E5FD}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="iOS/Main.storyboard">
     <Files>
+      <File FileName="iOS/ListaClientesController.cs" Line="23" Column="63" />
+      <File FileName="iOS/ClientesTVS.cs" Line="22" Column="38" />
+      <File FileName="iOS/ClienteCell.cs" Line="16" Column="45" />
       <File FileName="iOS/Main.storyboard" />
-      <File FileName="iOS/AddContactoController.cs" Line="12" Column="1" />
-      <File FileName="iOS/ViewController.cs" Line="20" Column="15" />
-      <File FileName="iOS/Main.cs" Line="17" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
+    <BreakpointStore>
+      <Breakpoint file="/Users/direccionrednacecyt/Documents/Git/CRM/iOS/ListaClientesController.cs" relfile="iOS/ListaClientesController.cs" line="40" column="8" />
+    </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.ejmeplo1.Droid AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Pixel_2_XL_API_25" />
-  <MonoDevelop.Ide.ItemProperties.ejmeplo1.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.710B3B93-DAF6-48C2-9A07-900D00D24909">
+  <MonoDevelop.Ide.ItemProperties.ejmeplo1.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.43F18991-6325-46F9-A40F-BAF77BCA0077">
     <MonoDevelop.MacDev.AppleDevelopmentTeam />
   </MonoDevelop.Ide.ItemProperties.ejmeplo1.iOS>
   <MultiItemStartupConfigurations />

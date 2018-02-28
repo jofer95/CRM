@@ -1,5 +1,6 @@
 ﻿using System;
-
+using System.IO;
+using ejmeplo1.Repositorios;
 using UIKit;
 
 namespace ejmeplo1.iOS
@@ -7,7 +8,8 @@ namespace ejmeplo1.iOS
     public partial class ViewController : UIViewController
     {
         int count = 1;
-
+        //Variable donde se generará la Base de datos a guardar la información.
+        public static String path;
         public ViewController(IntPtr handle) : base(handle)
         {
         }
@@ -15,6 +17,19 @@ namespace ejmeplo1.iOS
         public override void ViewDidLoad()
         {
             base.ViewDidLoad();
+            string docFolder = Environment.GetFolderPath(Environment.SpecialFolder.Personal);
+            string libFolder = Path.Combine(docFolder, "..", "Library", "Databases");
+
+            if (!Directory.Exists(libFolder))
+            {
+                Directory.CreateDirectory(libFolder);
+            }
+
+            path= Path.Combine(libFolder, "crm.db3");
+            //Creando las tablas e inicializando
+            SQLiteContactoRepository repositorio = new SQLiteContactoRepository(path);
+            repositorio.Inicializar();
+
 
             // Perform any additional setup after loading the view, typically from a nib.
             //Button.AccessibilityIdentifier = "myButton";

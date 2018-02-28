@@ -6,4 +6,3 @@ SQLitePCLRaw.core
 SQLitePCLRaw.lib.e_sqlite3
 SQLitePCLRaw.provider.e_sqlite3
 System.Runtime
-System.Resources.ResourceManager

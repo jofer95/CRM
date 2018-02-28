@@ -34,6 +34,7 @@
     <Compile Include="MyClass.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Repositorios\SQLiteContactoRepository.cs" />
+    <Compile Include="Entidades\ContactoiOS.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Repositorios\" />
