@@ -16,13 +16,85 @@ namespace ejmeplo1.iOS
     {
         [Outlet]
         [GeneratedCode ("iOS Designer", "1.0")]
+        UIKit.UIButton btnActualizar { get; set; }
+
+        [Outlet]
+        [GeneratedCode ("iOS Designer", "1.0")]
+        UIKit.UIButton btnBorrar { get; set; }
+
+        [Outlet]
+        [GeneratedCode ("iOS Designer", "1.0")]
         UIKit.UIButton btnRegresar { get; set; }
+
+        [Outlet]
+        [GeneratedCode ("iOS Designer", "1.0")]
+        UIKit.UITextField tfApellidoM { get; set; }
+
+        [Outlet]
+        [GeneratedCode ("iOS Designer", "1.0")]
+        UIKit.UITextField tfApellidoP { get; set; }
+
+        [Outlet]
+        [GeneratedCode ("iOS Designer", "1.0")]
+        UIKit.UITextField tfCorreo { get; set; }
+
+        [Outlet]
+        [GeneratedCode ("iOS Designer", "1.0")]
+        UIKit.UITextField tfEstatus { get; set; }
+
+        [Outlet]
+        [GeneratedCode ("iOS Designer", "1.0")]
+        UIKit.UITextField tfNombre { get; set; }
+
+        [Outlet]
+        [GeneratedCode ("iOS Designer", "1.0")]
+        UIKit.UITextField tfTelefono { get; set; }
 
         void ReleaseDesignerOutlets ()
         {
+            if (btnActualizar != null) {
+                btnActualizar.Dispose ();
+                btnActualizar = null;
+            }
+
+            if (btnBorrar != null) {
+                btnBorrar.Dispose ();
+                btnBorrar = null;
+            }
+
             if (btnRegresar != null) {
                 btnRegresar.Dispose ();
                 btnRegresar = null;
+            }
+
+            if (tfApellidoM != null) {
+                tfApellidoM.Dispose ();
+                tfApellidoM = null;
+            }
+
+            if (tfApellidoP != null) {
+                tfApellidoP.Dispose ();
+                tfApellidoP = null;
+            }
+
+            if (tfCorreo != null) {
+                tfCorreo.Dispose ();
+                tfCorreo = null;
+            }
+
+            if (tfEstatus != null) {
+                tfEstatus.Dispose ();
+                tfEstatus = null;
+            }
+
+            if (tfNombre != null) {
+                tfNombre.Dispose ();
+                tfNombre = null;
+            }
+
+            if (tfTelefono != null) {
+                tfTelefono.Dispose ();
+                tfTelefono = null;
             }
         }
     }

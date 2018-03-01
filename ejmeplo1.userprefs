@@ -1,7 +1,11 @@
-﻿<Properties StartupConfiguration="{32E9CBAC-E5CF-479F-B0F1-8562EA5CDC25}|Default">
+﻿<Properties StartupConfiguration="{90D36503-D9DF-484C-9C39-A75FF6E0E5FD}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="iOS/Main.storyboard">
     <Files>
+      <File FileName="iOS/DetallesClienteController.cs" Line="10" Column="10" />
       <File FileName="iOS/Main.storyboard" />
+      <File FileName="iOS/ViewController.cs" Line="7" Column="2" />
+      <File FileName="iOS/AddContactoController.cs" Line="16" Column="43" />
+      <File FileName="iOS/ListaClientesController.cs" Line="28" Column="48" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
@@ -10,5 +14,6 @@
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.ejmeplo1.Droid PreferredExecutionTarget="Android.Android_Accelerated_Nougat" />
+  <MonoDevelop.Ide.ItemProperties.ejmeplo1.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.43F18991-6325-46F9-A40F-BAF77BCA0077" />
   <MultiItemStartupConfigurations />
 </Properties>

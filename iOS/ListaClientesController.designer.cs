@@ -16,10 +16,19 @@ namespace ejmeplo1.iOS
     {
         [Outlet]
         [GeneratedCode ("iOS Designer", "1.0")]
+        UIKit.UIButton btnRegresar { get; set; }
+
+        [Outlet]
+        [GeneratedCode ("iOS Designer", "1.0")]
         UIKit.UITableView ClientesTableView { get; set; }
 
         void ReleaseDesignerOutlets ()
         {
+            if (btnRegresar != null) {
+                btnRegresar.Dispose ();
+                btnRegresar = null;
+            }
+
             if (ClientesTableView != null) {
                 ClientesTableView.Dispose ();
                 ClientesTableView = null;

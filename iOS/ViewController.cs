@@ -7,7 +7,6 @@ namespace ejmeplo1.iOS
 {
     public partial class ViewController : UIViewController
     {
-        int count = 1;
         //Variable donde se generará la Base de datos a guardar la información.
         public static String path;
         public ViewController(IntPtr handle) : base(handle)
@@ -33,10 +32,9 @@ namespace ejmeplo1.iOS
 
             // Perform any additional setup after loading the view, typically from a nib.
             //Button.AccessibilityIdentifier = "myButton";
-            Button.TouchUpInside += delegate
+            btnCrearCliente.TouchUpInside += delegate
             {
-                var title = string.Format("{0} clicks!", count++);
-                Button.SetTitle(title, UIControlState.Normal);
+                
             };
         }
 

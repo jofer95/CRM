@@ -3,11 +3,13 @@ using System;
 using UIKit;
 using System.Collections.Generic;
 using ejmeplo1.Entidades;
+using ejmeplo1.Repositorios;
 
 namespace ejmeplo1.iOS
 {
     public partial class ListaClientesController : UIViewController
     {
+        SQLiteContactoRepository repositorio = new SQLiteContactoRepository(ViewController.path);
         public ListaClientesController (IntPtr handle) : base (handle)
         {
         }
@@ -21,6 +23,11 @@ namespace ejmeplo1.iOS
             contacto.Correo = "jofer_bz20@hotmail.com";
             contacto.Telefono = "6671896358";
             contacto.TipoCliente = Enumeradores.TipoCliente.ClientePotencial;
+
+            List<Contacto> contactos = repositorio.ObtenerContactos(Enumeradores.TipoCliente.ClientePotencial);
+            foreach(Contacto obj in contactos){
+                clientes.Add(obj);
+            }
             clientes.Add(contacto);
 
             ClientesTableView.Source = new ClientesTVS(clientes);
