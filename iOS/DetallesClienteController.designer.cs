@@ -28,6 +28,10 @@ namespace ejmeplo1.iOS
 
         [Outlet]
         [GeneratedCode ("iOS Designer", "1.0")]
+        UIKit.UISegmentedControl segmentEstatus { get; set; }
+
+        [Outlet]
+        [GeneratedCode ("iOS Designer", "1.0")]
         UIKit.UITextField tfApellidoM { get; set; }
 
         [Outlet]
@@ -37,10 +41,6 @@ namespace ejmeplo1.iOS
         [Outlet]
         [GeneratedCode ("iOS Designer", "1.0")]
         UIKit.UITextField tfCorreo { get; set; }
-
-        [Outlet]
-        [GeneratedCode ("iOS Designer", "1.0")]
-        UIKit.UITextField tfEstatus { get; set; }
 
         [Outlet]
         [GeneratedCode ("iOS Designer", "1.0")]
@@ -67,6 +67,11 @@ namespace ejmeplo1.iOS
                 btnRegresar = null;
             }
 
+            if (segmentEstatus != null) {
+                segmentEstatus.Dispose ();
+                segmentEstatus = null;
+            }
+
             if (tfApellidoM != null) {
                 tfApellidoM.Dispose ();
                 tfApellidoM = null;
@@ -80,11 +85,6 @@ namespace ejmeplo1.iOS
             if (tfCorreo != null) {
                 tfCorreo.Dispose ();
                 tfCorreo = null;
-            }
-
-            if (tfEstatus != null) {
-                tfEstatus.Dispose ();
-                tfEstatus = null;
             }
 
             if (tfNombre != null) {

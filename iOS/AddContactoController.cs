@@ -26,6 +26,7 @@ namespace ejmeplo1.iOS
                 contacto.Telefono = tfTelefono.Text;
                 contacto.TipoCliente = Enumeradores.TipoCliente.ClientePotencial;
                 repositorio.CrearContacto(contacto);
+                this.PerformSegue("segueMain",this);
             };
         }
     }

@@ -34,7 +34,7 @@ C:/Users/Jorge Barraza/Documents/Git/CRM/ejmeplo1/obj/Debug/ejmeplo1.pdb
 /Users/direccionrednacecyt/Documents/Git/CRM/ejmeplo1/bin/Debug/SQLitePCLRaw.core.dll
 /Users/direccionrednacecyt/Documents/Git/CRM/ejmeplo1/bin/Debug/SQLite-net.pdb
 /Users/direccionrednacecyt/Documents/Git/CRM/ejmeplo1/bin/Debug/SQLite-net.xml
+/Users/direccionrednacecyt/Documents/Git/CRM/ejmeplo1/obj/Debug/ejmeplo1.csprojResolveAssemblyReference.cache
 /Users/direccionrednacecyt/Documents/Git/CRM/ejmeplo1/obj/Debug/ejmeplo1.csproj.CoreCompileInputs.cache
 /Users/direccionrednacecyt/Documents/Git/CRM/ejmeplo1/obj/Debug/ejmeplo1.dll
 /Users/direccionrednacecyt/Documents/Git/CRM/ejmeplo1/obj/Debug/ejmeplo1.pdb
-/Users/direccionrednacecyt/Documents/Git/CRM/ejmeplo1/obj/Debug/ejmeplo1.csprojResolveAssemblyReference.cache
